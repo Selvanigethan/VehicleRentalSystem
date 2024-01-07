@@ -1,0 +1,14 @@
+C:\Users\nik26\source\repos\OopCw\bin\Debug\net8.0\OopCw.exe
+C:\Users\nik26\source\repos\OopCw\bin\Debug\net8.0\OopCw.deps.json
+C:\Users\nik26\source\repos\OopCw\bin\Debug\net8.0\OopCw.runtimeconfig.json
+C:\Users\nik26\source\repos\OopCw\bin\Debug\net8.0\OopCw.dll
+C:\Users\nik26\source\repos\OopCw\bin\Debug\net8.0\OopCw.pdb
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\OopCw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\OopCw.AssemblyInfoInputs.cache
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\OopCw.AssemblyInfo.cs
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\OopCw.csproj.CoreCompileInputs.cache
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\OopCw.dll
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\refint\OopCw.dll
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\OopCw.pdb
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\OopCw.genruntimeconfig.cache
+C:\Users\nik26\source\repos\OopCw\obj\Debug\net8.0\ref\OopCw.dll

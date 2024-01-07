@@ -1,0 +1,3 @@
+Vehicle Number: 1111, Type: Car
+Vehicle Number: 2222, Type: Van
+Vehicle Number: 3333, Type: Motorbike
